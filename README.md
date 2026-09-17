@@ -1,5 +1,7 @@
 # 场景调色 Scene Tone
 
+公开版：https://qq1691995569-droid.github.io/scene-tone-color-workbench/
+
 ## 启动
 
 直接打开公开链接即可使用。需要在本机运行时，安装 Node.js 后执行 `npm install` 和 `npm start`，再打开 http://127.0.0.1:8765 。所有图片和调色计算都留在当前浏览器中，不会上传到服务器。
