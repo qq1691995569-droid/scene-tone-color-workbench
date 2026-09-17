@@ -1,0 +1,8 @@
+{
+  "name": "scene-tone",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-color.js && node test-import.cjs"
+  }
+}
